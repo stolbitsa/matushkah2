@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>matushkah2</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="matushkah"/>
+  <readme>
+    <ru>7bc90bb147cb6091beb2198f7ef67da54bdb56d09b5e5513ad3d63d76ea1e79b</ru>
+    <en>1a467dd06f8c26bbac80db171ccf7b5a06df98dd2282627072c40854e44ca70b</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>minor</scale>
+    <bpm>93</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_9.mp4" size="2608187" type="video/mp4" volume="0.508">59e844685f781ee5db5d2a9ba0cf606cbfb57431abb026ed3b6b47149869eace</video>
+    <notes>
+      <note number="1" values="18" ticks="55" durationTicks="67" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="151" durationTicks="66" ppq="96" velocity="0.784"/>
+      <note number="3" values="38" ticks="249" durationTicks="45" ppq="96" velocity="0.859"/>
+      <note number="4" values="28" ticks="295" durationTicks="39" ppq="96" velocity="0.812"/>
+      <note number="5" values="18" ticks="345" durationTicks="85" ppq="96" velocity="0.906"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>minor</scale>
+    <bpm>95</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_10.mp4" size="2780177" type="video/mp4" volume="0.5">e177ffa8bf6454d3d6aaebe7851c8cd1b26d8de94a74da35bc00adc1f14bf4c0</video>
+    <notes>
+      <note number="1" values="48" ticks="54" durationTicks="30" ppq="96" velocity="0.827"/>
+      <note number="2" values="48" ticks="102" durationTicks="33" ppq="96" velocity="0.757"/>
+      <note number="3" values="48" ticks="150" durationTicks="35" ppq="96" velocity="0.794"/>
+      <note number="4" values="38" ticks="199" durationTicks="47" ppq="96" velocity="0.762"/>
+      <note number="5" values="58" ticks="246" durationTicks="49" ppq="96" velocity="0.827"/>
+      <note number="6" values="48" ticks="294" durationTicks="48" ppq="96" velocity="0.734"/>
+      <note number="7" values="38" ticks="342" durationTicks="95" ppq="96" velocity="0.809"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>minor</scale>
+    <bpm>95</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_11.mp4" size="2650287" type="video/mp4" volume="0.501">a1e545dec5ac2aaf44a4b733692a874de6e32b7f73a2b58dec985f32e6fd67ca</video>
+    <notes>
+      <note number="1" values="48" ticks="34" durationTicks="30" ppq="96" velocity="0.827"/>
+      <note number="2" values="48" ticks="82" durationTicks="33" ppq="96" velocity="0.756"/>
+      <note number="3" values="48" ticks="130" durationTicks="35" ppq="96" velocity="0.787"/>
+      <note number="4" values="38" ticks="179" durationTicks="47" ppq="96" velocity="0.756"/>
+      <note number="5" values="58" ticks="226" durationTicks="49" ppq="96" velocity="0.827"/>
+      <note number="6" values="48" ticks="274" durationTicks="48" ppq="96" velocity="0.732"/>
+      <note number="7" values="38" ticks="322" durationTicks="95" ppq="96" velocity="0.803"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>minor</scale>
+    <bpm>95</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_12.mp4" size="2373116" type="video/mp4" volume="0.501">5660db032c2ed07047150e312d7617744c3692b98067753da627a84d8dd52820</video>
+    <notes>
+      <note number="1" values="28" ticks="34" durationTicks="30" ppq="96" velocity="0.827"/>
+      <note number="2" values="28" ticks="82" durationTicks="33" ppq="96" velocity="0.756"/>
+      <note number="3" values="28" ticks="130" durationTicks="35" ppq="96" velocity="0.78"/>
+      <note number="4" values="18" ticks="179" durationTicks="47" ppq="96" velocity="0.756"/>
+      <note number="5" values="38" ticks="226" durationTicks="49" ppq="96" velocity="0.827"/>
+      <note number="6" values="28" ticks="274" durationTicks="48" ppq="96" velocity="0.724"/>
+      <note number="7" values="18" ticks="322" durationTicks="95" ppq="96" velocity="0.795"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>minor</scale>
+    <bpm>93</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_13.mp4" size="2302476" type="video/mp4" volume="0.505">9fab8e9aedaa88e7accc663ce17219f0ea49ab790cabfc4901ae9d512b393bcc</video>
+    <notes>
+      <note number="1" values="18" ticks="61" durationTicks="67" ppq="96" velocity="0.843"/>
+      <note number="2" values="5" ticks="157" durationTicks="66" ppq="96" velocity="0.906"/>
+      <note number="3" values="38" ticks="255" durationTicks="45" ppq="96" velocity="0.906"/>
+      <note number="4" values="28" ticks="301" durationTicks="39" ppq="96" velocity="0.906"/>
+      <note number="5" values="18" ticks="351" durationTicks="85" ppq="96" velocity="0.906"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>minor</scale>
+    <bpm>95</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_14.mp4" size="2570307" type="video/mp4" volume="0.505">ba5e0b53feba51e5849829ad30566c74725640a9f9583815f93c96642c9179e9</video>
+    <notes>
+      <note number="1" values="48" ticks="48" durationTicks="30" ppq="96" velocity="0.827"/>
+      <note number="2" values="48" ticks="96" durationTicks="33" ppq="96" velocity="0.756"/>
+      <note number="3" values="48" ticks="144" durationTicks="35" ppq="96" velocity="0.787"/>
+      <note number="4" values="48" ticks="193" durationTicks="34" ppq="96" velocity="0.756"/>
+      <note number="5" values="38" ticks="240" durationTicks="49" ppq="96" velocity="0.827"/>
+      <note number="6" values="58" ticks="288" durationTicks="48" ppq="96" velocity="0.732"/>
+      <note number="7" values="48" ticks="336" durationTicks="48" ppq="96" velocity="0.803"/>
+      <note number="8" values="38" ticks="386" durationTicks="96" ppq="96" velocity="0.8"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <bpm>95</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_9.mp4" size="2608187" type="video/mp4" volume="0.508">59e844685f781ee5db5d2a9ba0cf606cbfb57431abb026ed3b6b47149869eace</video>
+    <notes>
+      <note number="1" values="48" ticks="102" durationTicks="30" ppq="96" velocity="0.827"/>
+      <note number="2" values="48" ticks="150" durationTicks="33" ppq="96" velocity="0.756"/>
+      <note number="3" values="48" ticks="198" durationTicks="35" ppq="96" velocity="0.787"/>
+      <note number="4" values="38" ticks="247" durationTicks="47" ppq="96" velocity="0.756"/>
+      <note number="5" values="58" ticks="294" durationTicks="49" ppq="96" velocity="0.827"/>
+      <note number="6" values="48" ticks="342" durationTicks="48" ppq="96" velocity="0.732"/>
+      <note number="7" values="38" ticks="390" durationTicks="95" ppq="96" velocity="0.803"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>minor</scale>
+    <bpm>95</bpm>
+    <lowestNote>5</lowestNote>
+    <tonalities>3</tonalities>
+    <video name="28-matushka_16.mp4" size="3012151" type="video/mp4" volume="0.5">1b171f2e6162112dc5718673eadeb6ce195b56c2fe4589cf652f6460c8bc924b</video>
+    <notes>
+      <note number="1" values="28" ticks="46" durationTicks="30" ppq="96" velocity="0.827"/>
+      <note number="2" values="28" ticks="94" durationTicks="33" ppq="96" velocity="0.756"/>
+      <note number="3" values="28" ticks="142" durationTicks="35" ppq="96" velocity="0.787"/>
+      <note number="4" values="18" ticks="191" durationTicks="47" ppq="96" velocity="0.756"/>
+      <note number="5" values="38" ticks="238" durationTicks="49" ppq="96" velocity="0.827"/>
+      <note number="6" values="28" ticks="286" durationTicks="48" ppq="96" velocity="0.732"/>
+      <note number="7" values="18" ticks="334" durationTicks="95" ppq="96" velocity="0.803"/>
+    </notes>
+  </exercise>
+</level>
