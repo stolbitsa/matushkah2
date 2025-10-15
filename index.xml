@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>matushkah2</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="matushkah"/>
   <readme>
-    <ru>7bc90bb147cb6091beb2198f7ef67da54bdb56d09b5e5513ad3d63d76ea1e79b</ru>
-    <en>1a467dd06f8c26bbac80db171ccf7b5a06df98dd2282627072c40854e44ca70b</en>
+    <ru>76069d64cab9c49771669e954d6707a33a294310d6dc82701f71ff10d7a283ca</ru>
+    <en>8a2b49e1d1fd673f21a2b275f5a198756259a2c2ec7bb9c0be5b9519eb008beb</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
