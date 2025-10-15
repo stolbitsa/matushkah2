@@ -4,7 +4,9 @@
 
 ![bird-7286246_1280](https://github.com/user-attachments/assets/a0301d41-e5a9-46fc-9684-b9f02a2c9b93)
 
-Предыдущий урок: stolbitsa.com/stolbitsa/matushkah<br><br>
+Предыдущий урок: 
+![](https://github.com/user-attachments/assets/030dc4f7-10fd-4913-8165-def5db1f57d9 =200x200)
+stolbitsa.com/stolbitsa/matushkah<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
@@ -14,6 +16,8 @@ The song "Matushka Zemlya Belaya Berezonka" (originally by Tatyana Kurtukova) pe
 
 ![bird-7286246_1280](https://github.com/user-attachments/assets/a0301d41-e5a9-46fc-9684-b9f02a2c9b93)
 
-Previous lesson: stolbitsa.com/stolbitsa/matushkah
+Previous lesson: 
+![](https://github.com/user-attachments/assets/030dc4f7-10fd-4913-8165-def5db1f57d9 =200x200)
+stolbitsa.com/stolbitsa/matushkah
 <br><br>
 
