@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>matushkah2</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="matushkah"/>
   <readme>
     <ru>76069d64cab9c49771669e954d6707a33a294310d6dc82701f71ff10d7a283ca</ru>
@@ -107,7 +107,7 @@
     <bpm>95</bpm>
     <lowestNote>5</lowestNote>
     <tonalities>3</tonalities>
-    <video name="28-matushka_9.mp4" size="2608187" type="video/mp4" volume="0.508">59e844685f781ee5db5d2a9ba0cf606cbfb57431abb026ed3b6b47149869eace</video>
+    <video name="28-matushka_15.mp4" size="2656751" type="video/mp4" volume="0.501">7cdcb2aaff96bee5ec576bbbc919f6a562894842b8b69748f2f4da852d797f80</video>
     <notes>
       <note number="1" values="48" ticks="102" durationTicks="30" ppq="96" velocity="0.827"/>
       <note number="2" values="48" ticks="150" durationTicks="33" ppq="96" velocity="0.756"/>
